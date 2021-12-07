@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/lodash": "^4.14.177",
     "lodash": "^4.17.21",
     "ts-node": "^10.4.0",
     "tsc": "^2.0.3",
