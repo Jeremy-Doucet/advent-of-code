@@ -4,6 +4,8 @@ const part1 = () => {
   console.log(`Part 1: ${findShortestPath(parsedInput(input))}`);
 };
 
+// Grid and findSortestPath taken from 
+// https://github.com/AugustsK/advent-of-code-solutions/tree/master/2021/day15
 const part2 = () => {
   const data = parsedInput(input);
   const map = Array.from({ length: data.length * 5 }).map((_, y) =>
