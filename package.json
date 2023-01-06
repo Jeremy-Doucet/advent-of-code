@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "initYear",
+  "repository": "git@github.com:Jeremy-Doucet/advent-of-code.git",
+  "author": "Jeremy-Doucet <jeremy.doucet93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node initYear.ts"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.11.18",
+    "chalk": "4.1.2",
+    "handlebars": "^4.7.7",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
