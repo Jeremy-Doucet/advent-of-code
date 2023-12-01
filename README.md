@@ -1,4 +1,4 @@
-# Advent of Code 2[02](day_02/README.md)1
+# Advent of Code
 
 https://adventofcode.com/
 
